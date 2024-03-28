@@ -1,18 +1,13 @@
-<h1 align="left">Ciao, mi chiamo Andrea T</h1>
+<h1 align="left">Ciao, mi chiamo Andrea Turci</h1>
 
 ###
 
-<h3 align="left">Sono un Senior Frontend Developer  Web e Mobile  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"/>  da Roma </h3>
-
-###
-
-<h2 align="left">Su di me</h2>
+<h3 align="left">Sono un Team Leadere e un Senior Frontend Developer Web e Mobile</h3>
 
 ###
 
 <h4 align="left">Qui puoi contattarmi e incontrami</h4>
-
-###
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andreatu" target="_blank">
@@ -33,7 +28,10 @@
 </div>
 
 ###
+<br clear="both">
 
+<h4 align="left">Qui puoi offrirmi un caffè </h4>
+<br clear="both">
 <div align="center">
 <a href="https://www.buymeacoffee.com/AndreaT.dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
@@ -86,18 +84,11 @@
 
 ###
 
-<h2 align="left">Articoli Medium</h2>
+<h2 align="left">Questi sono alcuni degli articoli pubblicati su Medium</h2>
+
+[Router Title in Angular 4](https://medium.com/@andreatu/nuova-funzionalit%C3%A0-router-title-in-angular-14-5bc077f31aee)
+<br>
+[Console](https://medium.com/@andreatu/console-10-metodi-che-forse-non-conoscevi-fa73f7b32079)
 
 ###
 
-<p align="left">Questi sono alcuni degli articoli pubblicati:</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@andreatu" alt="Layout with last medium posts"  />
-</div>
-
-###
